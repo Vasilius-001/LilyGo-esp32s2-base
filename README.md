@@ -1,5 +1,7 @@
 ## LILYGO® TTGO T8 ESP32-S2 V1.1 WIFI Wireless Module Type-C Connector TF Card Slot Development Board
 
+Please test
+
 ###Product Description
 
 Hardware Specifications||
@@ -17,6 +19,18 @@ Working voltage|2.7V-3.6V
 Working temperature range|-40℃ ~ +85℃
 Weight|7g
 Size|65.21*25.95*5mm
+**Power Supply**||
+Power Supply Input|USB 5V/1A
+Charging current|500mA
+Battery Input|3.7-4.2V
+JST Connector|2Pin 1.25mm
+USB|Type-C USB
+**Wi-Fi**||
+Standard|FCC/CE-RED/IC/TELEC/KCC/SRRC/NCC(esp32 chip)
+Protocol|802.11 b/g/n(802.11n，speed up to150Mbps)A-MPDU and A-MSDU polymerization，support 0.4μS Protection interval
+Frequency range|2.4GHz-2.5GHz(2400M-2483.5M)
+Transmit Power|22dBm
+Communication distance|300m
 
 
 1. Before using this project, please set up the esp-idf environment, specific reference [esp-idf-docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/index.html)
