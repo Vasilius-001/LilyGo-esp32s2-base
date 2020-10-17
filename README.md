@@ -1,9 +1,9 @@
-# LILYGO® TTGO T8 ESP32-S2 V1.1 WIFI Wireless Module Type-C Connector TF Card Slot Development Board
+## LILYGO® TTGO T8 ESP32-S2 V1.1 WIFI Wireless Module Type-C Connector TF Card Slot Development Board
 
 ###Product Description
 
-Hardware Specifications
------------------------
+Hardware Specifications||
+-----------:|:------------
 Chipset|ESPRESSIF-ESP32-S2
 FLASH|4MB 
 PSRAM|8MB
