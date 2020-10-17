@@ -34,11 +34,11 @@ Frequency range|2.4GHz-2.5GHz(2400M-2483.5M)
 Transmit Power|22dBm
 Communication distance|300m
 
-## Pinmap
+## Таблица выводов
 
 <img align="cener" width=600 src="Images/LilyGO_esp32s2_T8_v1.1-Pinmap.jpg" />
 
-## Dimension
+## Размеры
 
 <img align="cener" width=600 src="Images/LilyGO_esp32s2_T8_v1.1-Dimension.png" />
 
@@ -46,19 +46,19 @@ Communication distance|300m
 
 https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base
 
-## Software
+## Програмное обеспечение
 
-1. Before using this project, please set up the esp-idf environment, specific reference [esp-idf-docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/index.html)
-2. Clone the project and then allow `idf.py build`
-3. Use `idf.py -p [your port] -b 115200 flash` to download to the board
+1. Перед использованием этого проекта настройте среду ESP-IDF, конкретную ссылку [esp-idf-docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/index.html)
+2. Клонируйте проект, а затем выполните `idf.py build`
+3. Используйте `idf.py -p [ваш порт] -b 115200 flash` для загрузки на плату
 
 
-### Information for new users:
-- If you have an SD card, please open this definition in app_main.c 49 line
+### Информация для новых пользователей:
+- Если у вас есть SD-карта, откройте это определение в app_main.c строка 49
     ```
     // #define HAS_SDCARD       //If you have an SD card, please open this definition
     ```
-- IO14 is connected to the SD card of the board, and the power of the LED controls the IO Pin. When you use the battery, you need to set IO14 to high level to use the SD card.
+- Вывод IO14 подключен к SD-карте платы, а мощность светодиода управляет выводом IO. Когда вы используете аккумулятор, вам необходимо установить на выводе IO14 высокий уровень, чтобы использовать SD-карту.
 
 
 
