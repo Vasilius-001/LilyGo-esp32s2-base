@@ -2,6 +2,8 @@
 
 WIFI Wireless Module Type-C Connector TF Card Slot Development Board
 
+<img align="cener" width=600 src="Images/LilyGO_esp32s2_T8_v1.1-6.jpg" />
+
 ### Product Description
 
 Hardware Specifications||
@@ -31,6 +33,10 @@ Protocol|802.11 b/g/n(802.11n，speed up to150Mbps)A-MPDU and A-MSDU polymerizat
 Frequency range|2.4GHz-2.5GHz(2400M-2483.5M)
 Transmit Power|22dBm
 Communication distance|300m
+
+## More Information
+
+https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base
 
 
 1. Before using this project, please set up the esp-idf environment, specific reference [esp-idf-docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/index.html)
