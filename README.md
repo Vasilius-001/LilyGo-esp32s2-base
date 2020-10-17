@@ -34,6 +34,14 @@ Frequency range|2.4GHz-2.5GHz(2400M-2483.5M)
 Transmit Power|22dBm
 Communication distance|300m
 
+## Pinmap
+
+<img align="cener" width=600 src="Images/LilyGO_esp32s2_T8_v1.1-Pinmap.jpg" />
+
+## Dimension
+
+<img align="cener" width=600 src="Images/LilyGO_esp32s2_T8_v1.1-Dimension.png" />
+
 ## More Information
 
 https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base
