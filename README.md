@@ -4,6 +4,8 @@ WIFI Wireless Module Type-C Connector TF Card Slot Development Board
 
 <img align="cener" width=600 src="Images/LilyGO_esp32s2_T8_v1.1-6.jpg" />
 
+<img align="cener" width=600 src="Images/LilyGO_esp32s2_woor_T8_v1.1-6.jpg" />
+
 ### Product Description
 
 Hardware Specifications||
@@ -36,11 +38,13 @@ Communication distance|300m
 
 ## Таблица выводов
 
-<img align="cener" width=600 src="Images/LilyGO_esp32s2_T8_v1.1-Pinmap.jpg" />
+<img align="cener" width=200 src="Images/LilyGO_esp32s2_T8_v1.1-Pinmap.jpg" /><img align="cener" width=200 src="Images/LilyGO_esp32s2_woor_T8_v1.1-Pinmap.jpg" />
 
 ## Размеры
 
 <img align="cener" width=600 src="Images/LilyGO_esp32s2_T8_v1.1-Dimension.png" />
+
+<img align="cener" width=600 src="Images/LilyGO_esp32s2_woor_T8_v1.1-Dimension.png" />
 
 ## More Information
 
