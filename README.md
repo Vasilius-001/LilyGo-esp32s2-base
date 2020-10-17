@@ -46,6 +46,7 @@ Communication distance|300m
 
 https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base
 
+## Software
 
 1. Before using this project, please set up the esp-idf environment, specific reference [esp-idf-docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/index.html)
 2. Clone the project and then allow `idf.py build`
