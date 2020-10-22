@@ -1,38 +1,38 @@
 # LILYGO® TTGO T8 ESP32-S2 V1.1
 
-WIFI Wireless Module Type-C Connector TF Card Slot Development Board
+Беспроводной модуль Wi-Fi, USB разъем типа C, со слотом для карт памяти TF и без него. Поддержка внешней Li-ion батареи.
 
 <img align="cener" width=400 src="Images/LilyGO_esp32s2_T8_v1.1-6.jpg" /><img align="cener" width=400 src="Images/LilyGO_esp32s2_woor_T8_v1.1-6.jpg" />
 
-### Product Description
+### Описание продукта
 
-Hardware Specifications||
+Технические характеристики||
 -----------:|:------------
-Chipset|ESPRESSIF-ESP32-S2
+Чипсет|ESPRESSIF-ESP32-S2
 FLASH|4MB 
 PSRAM|8MB
 SRAM|320 kB SRAM
-Button|Power Switch,Rest,Boot,Customize,DPI Switch
-External Device|TF Card
+Кнопки|Выключатель питания, Сброс, Загрузка, Настройка, Переключатель DPI
+Внешнее устройство|TF-карта
 USB to TTL|CH340C
-Modular interface|SD card、UART、SPI、I2C、PWM、I2S、ADC
-On-board clock|32.768KHz crystal oscillator 
-Working voltage|2.7V-3.6V
-Working temperature range|-40℃ ~ +85℃
-Weight|7g
-Size|65.21*25.95*5mm
-**Power Supply**||
-Power Supply Input|USB 5V/1A
-Charging current|500mA
-Battery Input|3.7-4.2V
-JST Connector|2Pin 1.25mm
+Модульный интерфейс|SD card、UART、SPI、I2C、PWM、I2S、ADC
+Часовой кварц|32.768KHz
+Рабочее напряжение|2.7V-3.6V
+Рабочая температура|-40℃ ~ +85℃
+Вес|7g
+Размер|65.21*25.95*5мм
+**Питание**||
+Вход источника питания|USB 5V/1A
+Зарядный ток|500mA
+Вход батареи|3.7-4.2V
+JST разъем|2Pin 1.25mm
 USB|Type-C USB
 **Wi-Fi**||
-Standard|FCC/CE-RED/IC/TELEC/KCC/SRRC/NCC(esp32 chip)
-Protocol|802.11 b/g/n(802.11n，speed up to150Mbps)A-MPDU and A-MSDU polymerization，support 0.4μS Protection interval
-Frequency range|2.4GHz-2.5GHz(2400M-2483.5M)
-Transmit Power|22dBm
-Communication distance|300m
+Стандарт|FCC/CE-RED/IC/TELEC/KCC/SRRC/NCC(esp32 chip)
+Протокол|802.11 b/g/n(802.11n，speed up to150Mbps)A-MPDU and A-MSDU polymerization，support 0.4μS Protection interval
+Частоты|2.4GHz-2.5GHz(2400M-2483.5M)
+Мощность передатчика|22dBm
+Расстояние связи|300m
 
 ## Таблица выводов
 
@@ -42,7 +42,7 @@ Communication distance|300m
 
 <img align="cener" width=400 src="Images/LilyGO_esp32s2_T8_v1.1-Dimension.png" /><img align="cener" width=400 src="Images/LilyGO_esp32s2_woor_T8_v1.1-Dimension.png" />
 
-## More Information
+## Больше информации
 
 https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base
 
